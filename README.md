@@ -16,12 +16,12 @@ Se ha desarrollado una aplicación móvil para dispositivos Android con el objet
 - 
 ## Tecnologías Utilizadas:
 
-Kotlin: Lenguaje de programación principal para el desarrollo de la aplicación.
-Jetpack Compose: Biblioteca de UI moderna para la creación de la interfaz de usuario.
-Room: Biblioteca de persistencia para el manejo de la base de datos local.
-Retrofit: Biblioteca para la realización de solicitudes HTTP y conexión a un endpoint remoto.
-Hilt: Marco de inyección de dependencias para una gestión eficiente de componentes.
-Android SDK: Conjunto de herramientas y APIs proporcionadas por Google para el desarrollo de aplicaciones Android.
+- Kotlin: Lenguaje de programación principal para el desarrollo de la aplicación.
+- Jetpack Compose: Biblioteca de UI moderna para la creación de la interfaz de usuario.
+- Room: Biblioteca de persistencia para el manejo de la base de datos local.
+- Retrofit: Biblioteca para la realización de solicitudes HTTP y conexión a un endpoint remoto.
+- Hilt: Marco de inyección de dependencias para una gestión eficiente de componentes.
+- Android SDK: Conjunto de herramientas y APIs proporcionadas por Google para el desarrollo de aplicaciones Android.
 
 ## Capturas de pantalla de la aplicación
 
