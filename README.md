@@ -9,7 +9,8 @@ Se ha desarrollado una aplicación móvil para dispositivos Android con el objet
 - Conexión a Endpoint con Retrofit: La aplicación se conecta a un endpoint remoto para obtener información actualizada sobre los productos, utilizando Retrofit para realizar las solicitudes HTTP.
 - Manejo de Bases de Datos con Room: Se utiliza la biblioteca Room para el almacenamiento local de datos, lo que permite un acceso rápido y eficiente a la información del catálogo.
 - Inyección de Dependencias con Hilt: Hilt se utiliza para la inyección de dependencias, lo que facilita la gestión de componentes y la creación de pruebas unitarias.
-- 
+- Uso de arquitectura MVVM: Se utilizó arquitectura Model View ViewModel para que la interacción del usuario con la aplicación no se vea afectada por la capa de datos o viceversa.
+
 ## Tecnologías Utilizadas:
 
 - Kotlin: Lenguaje de programación principal para el desarrollo de la aplicación.
