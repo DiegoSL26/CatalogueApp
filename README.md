@@ -5,13 +5,9 @@ Se ha desarrollado una aplicación móvil para dispositivos Android con el objet
 ## Características Principales:
 
 - Catálogo de Productos: Los usuarios pueden navegar a través de una amplia gama de productos organizados en categorías y subcategorías.
-- Búsqueda Avanzada: Se incluye una función de búsqueda que permite a los usuarios encontrar productos específicos por nombre, categoría o características.
 - Detalles del Producto: Los usuarios pueden ver información detallada sobre cada producto, incluyendo imágenes, descripciones, precios y disponibilidad.
-- Gestión de Favoritos: Los usuarios tienen la opción de marcar productos como favoritos para acceder fácilmente a ellos más tarde.
-- Carrito de Compras: Los usuarios pueden agregar productos al carrito de compras y realizar compras directamente desde la aplicación.
-- Autenticación de Usuario: La aplicación cuenta con un sistema de inicio de sesión integrado que permite a los usuarios crear cuentas, iniciar sesión y gestionar su perfil.
 - Conexión a Endpoint con Retrofit: La aplicación se conecta a un endpoint remoto para obtener información actualizada sobre los productos, utilizando Retrofit para realizar las solicitudes HTTP.
-- Manejo de Bases de Datos con Room: Se utiliza la biblioteca Room para el almacenamiento local de datos, lo que permite un acceso rápido y eficiente a la información del catálogo incluso sin conexión a Internet.
+- Manejo de Bases de Datos con Room: Se utiliza la biblioteca Room para el almacenamiento local de datos, lo que permite un acceso rápido y eficiente a la información del catálogo.
 - Inyección de Dependencias con Hilt: Hilt se utiliza para la inyección de dependencias, lo que facilita la gestión de componentes y la creación de pruebas unitarias.
 - 
 ## Tecnologías Utilizadas:
